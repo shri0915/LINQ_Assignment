@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kfDUN+OPfuZlcJ06icnpc+tweGkBhPdB1WwlPHTv7qu2FIn4KiW75Wewf4Yalwj3pRPgHWlnH7T88pRbg/Vbmg==",
+  "success": true,
+  "projectFilePath": "D:\\Cennest_Work\\My_Training\\LINQ_Assignment\\CompanyManagementDataLayer\\CompanyManagementDataLayer\\CompanyManagementDataLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shrijit Panicker\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shrijit Panicker\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
