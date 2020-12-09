@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyManagementDataLayer", "CompanyManagementDataLayer\CompanyManagementDataLayer.csproj", "{2E4B56B5-6EBD-4EB5-B919-74D4B9F06E67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{9E18B897-6A02-4936-95F1-88817AAB2B4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program", "Program\Program.csproj", "{9E18B897-6A02-4936-95F1-88817AAB2B4F}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Company", "C:\Users\Shrijit Panicker\source\repos\Company\Company\Company.sqlproj", "{2749854E-5519-4A1A-AD1A-8C3FFE04D725}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,12 @@ Global
 		{9E18B897-6A02-4936-95F1-88817AAB2B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E18B897-6A02-4936-95F1-88817AAB2B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E18B897-6A02-4936-95F1-88817AAB2B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2749854E-5519-4A1A-AD1A-8C3FFE04D725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2749854E-5519-4A1A-AD1A-8C3FFE04D725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2749854E-5519-4A1A-AD1A-8C3FFE04D725}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2749854E-5519-4A1A-AD1A-8C3FFE04D725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2749854E-5519-4A1A-AD1A-8C3FFE04D725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2749854E-5519-4A1A-AD1A-8C3FFE04D725}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
